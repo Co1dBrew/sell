@@ -1,0 +1,20 @@
+{
+  "path": "/Users/gongqingdong/codebuddy/sell/warehouse-inventory",
+  "desc": "这是一个销售记录管理系统，用于管理客户销售记录，支持多端查看和历史数据查询。功能包括客户管理、商品管理、销售记录、历史数据查询和红冲功能。已修复客户欠款实时计算和客户名称显示问题。",
+  "id": "b6fc64b4c90f41ba8e8e5ca8e9d6e725",
+  "data": {
+    "spaceKey": "b6fc64b4c90f41ba8e8e5ca8e9d6e725",
+    "connections": {
+      "webIDE": "https://b6fc64b4c90f41ba8e8e5ca8e9d6e725.ap-singapore.cloudstudio.club",
+      "preview": "",
+      "api": "https://b6fc64b4c90f41ba8e8e5ca8e9d6e725--api.ap-singapore.cloudstudio.club",
+      "pty": "https://b6fc64b4c90f41ba8e8e5ca8e9d6e725--pty.ap-singapore.cloudstudio.club"
+    }
+  },
+  "config": {
+    "api": "https://b6fc64b4c90f41ba8e8e5ca8e9d6e725--api.ap-singapore.cloudstudio.club",
+    "pty": "https://b6fc64b4c90f41ba8e8e5ca8e9d6e725--pty.ap-singapore.cloudstudio.club",
+    "region": "ap-shanghai",
+    "spaceKey": "b6fc64b4c90f41ba8e8e5ca8e9d6e725"
+  }
+}
